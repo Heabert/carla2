@@ -1,0 +1,37 @@
+h1 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 36pt;
+	text-align: center;
+	margin-right: 15%;
+	margin-left: 20%;
+
+}
+
+
+#footer {
+	font-size: 16px;
+	font-style: normal;
+	text-align: justify;
+	border-top: thin none;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #FF0000;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+}
+
+p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	line-height: 130%;
+	font-weight: bold;
+	color: #0000FF;
+}
+
+.logo{
+		vertical-align: middle;
+		border-style: none;
+		height: 45px;
+	}
+
+
